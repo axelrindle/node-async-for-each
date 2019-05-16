@@ -9,6 +9,9 @@
   "engines": {
     "node": ">=7.6.0"
   },
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/axelrindle/node-async-for-each.git"
