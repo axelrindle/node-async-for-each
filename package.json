@@ -1,0 +1,31 @@
+{
+  "name": "@axelrindle/async-for-each",
+  "version": "1.0.0",
+  "description": "Asynchronous for/each loops with async/await",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelrindle/node-async-for-each.git"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "loop",
+    "foreach"
+  ],
+  "author": "Axel Rindle <axel.rindle@gmx.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axelrindle/node-async-for-each/issues"
+  },
+  "homepage": "https://github.com/axelrindle/node-async-for-each#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
