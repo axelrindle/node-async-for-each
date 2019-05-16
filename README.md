@@ -1,6 +1,11 @@
 # node-async-for-each
 > Asynchronous for/each loops with async/await in Node.JS
 
+## Install
+```bash
+$ npm i @axelrindle/async-for-each
+```
+
 ## Usage
 ```js
 const asyncForEach = require('@axelrindle/async-for-each');
