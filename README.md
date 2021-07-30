@@ -1,3 +1,5 @@
+# Deprecated: Just use native `async/await` with `for/of` or `for/in`
+
 # node-async-for-each
 > Asynchronous for/each loops with async/await in Node.JS
 
